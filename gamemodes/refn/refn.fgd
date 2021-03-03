@@ -1,0 +1,21 @@
+@include "base.fgd"
+
+@PointClass base(Targetname, Angles) studio("models/props_combine/combine_interface001.mdl") = nss_terminal : "NSS Terminal"
+[
+]
+
+@PointClass base(Targetname) iconsprite("editor/info_target.vmt") = nss_explosion_fx : "Ship Explosion Sprite Location"
+[
+]
+
+@PointClass base(Targetname, Angles) studio("models/props_wasteland/controlroom_desk001b.mdl") = nss_workbench : "Workbench"
+[
+]
+
+@PointClass base(Targetname, Angles) studio("models/props_c17/gaspipes006a.mdl") = nss_ass: "Atmospheric Systems Stabilizer"
+[
+]
+
+@SolidClass base(Trigger) = nss_func_space : "Space" 
+[
+]

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pk02/pk02_dec_numC"
+	
+	$decal 1
+	$decalscale	0.25
+	$translucent	1
+
+	"$surfaceprop" metal
+}

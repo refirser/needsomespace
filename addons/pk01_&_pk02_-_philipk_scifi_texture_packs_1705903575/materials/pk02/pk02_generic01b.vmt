@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pk02/pk02_generic01b_C"
+	"$bumpmap" "pk02/pk02_generic01_N"
+	
+	"$envmaptint" "[0.05 0.05 0.05]"
+	"$envmapcontrast" 1
+	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask" 1	
+
+	"$surfaceprop" metal
+}

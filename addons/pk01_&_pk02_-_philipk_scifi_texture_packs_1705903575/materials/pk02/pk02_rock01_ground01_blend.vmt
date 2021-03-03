@@ -1,0 +1,12 @@
+"worldvertextransition"
+{
+	"$basetexture" "pk02/pk02_rock01_C"
+	"$bumpmap" "pk02/pk02_rock01_N"
+	
+	"$basetexture2" "pk02/pk02_sand01_C"
+	"$bumpmap2" "pk02/pk02_sand01_N"
+
+	"%tooltexture" "pk02/pk02_rock01_sand01_blend"
+
+	"$surfaceprop" rock
+}

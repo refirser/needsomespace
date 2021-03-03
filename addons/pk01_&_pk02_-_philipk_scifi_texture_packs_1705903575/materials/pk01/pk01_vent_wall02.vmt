@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pk01/pk01_vent_wall02"
+	"$bumpmap" "pk01/pk01_vent_wall02_normal"
+	
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+	
+	"$surfaceprop" "metal"
+	
+	"%keywords" "pk01"
+}

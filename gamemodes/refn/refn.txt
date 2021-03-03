@@ -1,0 +1,8 @@
+"refn"
+{
+	"base"			"base"
+	"title"			"우주 엔지니어"
+	"menusystem" 	"1"
+	"maps"			"^nss_"
+	"workshopid"	"959507256"
+}
